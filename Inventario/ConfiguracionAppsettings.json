@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "InventarioDB": "Server=localhost;Database=InventarioDB;Integrated Security=True;TrustServerCertificate=True;"
+  }
+}
